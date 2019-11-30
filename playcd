@@ -1,3 +1,0 @@
-#!/bin/sh
-ifinstalled mpv
-exec mpv -cdrom-device /dev/sr0 cdda://
